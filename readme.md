@@ -1,4 +1,4 @@
-![icon](images\icon.ico)
+<img src="images\icon.ico" alt="Spleeter logo" style="zoom:25%;" />
 
 # **Deezer Spleeter GUI**
 
