@@ -56,5 +56,5 @@ All credits go to Deezer (github.com/deezer/spleeter). This project only builds 
 
 ------
 
-<img src="images\dltaicon.png" alt="dlta logo" style="zoom:25%;" />
+<img src="images\dltaicon.png" alt="dlta logo" style="zoom:25%;" width="200px"/>
 del//code7
