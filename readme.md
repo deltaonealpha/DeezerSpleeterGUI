@@ -1,4 +1,4 @@
- q	![icon](C:\Users\balaj\Desktop\icon.jpg)
+![icon](images\icon.ico)
 
 # **Deezer Spleeter GUI**
 
@@ -56,4 +56,4 @@ All credits go to Deezer (github.com/deezer/spleeter). This project only builds 
 
 ------
 
-<img src="C:\Users\balaj\Desktop\Untitled-1.png" alt="Untitled-1" style="zoom:25%;" />
+<img src="images\dltaicon.png" alt="dlta logo" style="zoom:25%;" />
