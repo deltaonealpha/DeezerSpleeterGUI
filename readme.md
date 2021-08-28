@@ -33,6 +33,17 @@ SpleeterGUI is a GUI implementation of Spleeter by Deezer in PythonQT5 and Tkint
 
 
 
+#### **#Special Features**
+
+- SpleeterGUI comes combined with FFmpeg in its release files. 
+- SpleeterGUI comes with a batch file to add it's FFmpeg package to Windows PATH (sys environment vars).
+- SpleeterGUI automatically installs missing libraries from Pypi. No need to "pip install -r requirements.txt":P
+
+------
+
+
+
+
 #### **#Usage**
 
 SpleeterGUI runs a terminal window with log and note messages and a GUI window on-top of it. The window opened provides three processing options and two navigational buttons, one for exiting the app and one for viewing the about section of the same.
