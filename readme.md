@@ -12,11 +12,13 @@
 
 
 
+
 #### **#Introduction**
 
 SpleeterGUI is a GUI implementation of Spleeter by Deezer in PythonQT5 and Tkinter. It makes use of file analysis and classifiers to handle all compatible file types. It also whitespaces in file names which is typically an issue that SpleeterCLI can't deal with. 
 
 ------
+
 
 
 
@@ -30,6 +32,7 @@ SpleeterGUI is a GUI implementation of Spleeter by Deezer in PythonQT5 and Tkint
 
 
 
+
 #### **#Usage**
 
 SpleeterGUI runs a terminal window with log and note messages and a GUI window on-top of it. The window opened provides three processing options and two navigational buttons, one for exiting the app and one for viewing the about section of the same.
@@ -37,6 +40,7 @@ SpleeterGUI runs a terminal window with log and note messages and a GUI window o
 On opening any processing option SpleeterGUI opens a file dialog to select a file. Then the app directly proceeds to processing the selected file post validation of it's type (i.e., audio). Afterwards the destination folder (output/filename/) is opened with files depending on your process type (2/4/5).
 
 ------
+
 
 
 
@@ -50,11 +54,15 @@ On opening any processing option SpleeterGUI opens a file dialog to select a fil
 
 
 
+
 #### **#Credits**
 
 All credits go to Deezer (github.com/deezer/spleeter). This project only builds a GUI interface on-top of it.
 
 ------
+
+
+
 
 del//code7
 
