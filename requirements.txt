@@ -1,0 +1,5 @@
+pysimplegui
+spleeter
+tkinter
+tensorflow
+fleep
